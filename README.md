@@ -113,7 +113,6 @@ ColorCat/
 
 ## ⚠️ Known Limitations
 
-- Does **not** work on `chrome://` pages, `chrome-extension://` pages, or the Chrome Web Store (browser restriction)
 - Reloading a page resets all color changes (colors are not saved)
 - The ON/OFF state is **per-tab** — each new tab starts fresh
 
