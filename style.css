@@ -1,0 +1,4 @@
+/* Change the cursor to a crosshair when the extension is active */
+.colorcat-active, .colorcat-active * {
+  cursor: crosshair !important;
+}
